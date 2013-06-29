@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 body {
   margin: 0;
   padding: 0;
@@ -5,7 +6,7 @@ body {
   color: #eaeaea;
   font: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: 'open sans';
 }
 
 /* General & 'Reset' Stuff */
@@ -30,9 +31,9 @@ li {
 }
 
 /* Header, <header>
-   header   - container
-   h1       - project name
-   h2       - project description
+header - container
+h1 - project name
+h2 - project description
 */
 
 header {
@@ -223,7 +224,7 @@ hr {
 }
 
 /* Links
-   a, a:hover, a:visited
+a, a:hover, a:visited
 */
 
 a {
